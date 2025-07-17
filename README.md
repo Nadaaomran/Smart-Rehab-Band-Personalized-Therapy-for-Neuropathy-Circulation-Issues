@@ -2,7 +2,6 @@
 
 A wearable rehabilitation system designed for patients with **neuropathy** and **poor circulation**. The device integrates biometric sensing and AI-powered therapy recommendations to deliver **personalized vibration sessions**, improving comfort, mobility, and blood flow. The companion mobile app helps users track progress, stay engaged with exercises, and understand their recovery journey.
 
----
 
 ## 📦 Features
 
@@ -43,7 +42,6 @@ A wearable rehabilitation system designed for patients with **neuropathy** and *
   - Vibration frequency
   - User-reported symptoms at session time
 
----
 
 ## 🧠 How It Works
 
@@ -58,7 +56,6 @@ A wearable rehabilitation system designed for patients with **neuropathy** and *
 6. The session begins with **custom vibration output**
 7. All data is stored and visualized for progress tracking
 
----
 
 ## 🖼 Demo
 
