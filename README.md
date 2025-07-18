@@ -4,6 +4,7 @@ A wearable rehabilitation system designed for patients with **neuropathy** and *
 
 
 ## 📦 Features
+![Home Page](image/UI.png)
 
 ### ✅ Personalized Vibration Therapy
 - Connects to **MediSearch API** for intelligent therapy recommendations
@@ -56,10 +57,9 @@ A wearable rehabilitation system designed for patients with **neuropathy** and *
 6. The session begins with **custom vibration output**
 7. All data is stored and visualized for progress tracking
 
+## 📄 License
 
-## 🖼 Demo
-
-[▶️ Watch the Demo Video](https://your-video-link.com)
+This project is licensed under the GPL v3 License - see the `LICENSE` file for details.
 
 ## Authors
 <div align="left">
@@ -72,7 +72,7 @@ A wearable rehabilitation system designed for patients with **neuropathy** and *
   <a href="https://github.com/MohamedSayedDiab">
     <img src="https://avatars.githubusercontent.com/u/90231744?v=4" width="100px" alt="@MohamedSayedDiab">
   </a>
-  <a href="https://github.com/MohamedMandour10"
+  <a href="https://github.com/MohamedMandour10">
     <img src="https://avatars.githubusercontent.com/u/115044826?v=4" width="100px" alt="MohamedMandour10">
   </a>
 </div>
