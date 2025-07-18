@@ -4,7 +4,7 @@ A wearable rehabilitation system designed for patients with **neuropathy** and *
 
 
 ## 📦 Features
-![Home Page](image/UI.png)
+<img src="image/UI.png" alt="Home Page" width="200"/>
 
 ### ✅ Personalized Vibration Therapy
 - Connects to **MediSearch API** for intelligent therapy recommendations
